@@ -7,10 +7,20 @@ The Annotated Custom Images(out of the 500 images) predicted by Yolo is placed a
 
 https://github.com/sudhakarmlal/S13/tree/master/YoloV3/out_out
 
+A sample annotated image is available at:
+
+![image](https://github.com/sudhakarmlal/S13/blob/master/YoloV3/out_out/26.jpg)
 
 The Annotated Custom Images(out of the 2K odd images out of the Video taken from Ytube) predicted by Yolo is placed at:
 
 https://github.com/sudhakarmlal/S13/tree/master/YoloV3/out_pub1
+
+
+
+A sample annotated image for the video data is available at:
+
+![image](https://github.com/sudhakarmlal/S13/blob/master/YoloV3/out_pub1/image-205.jpg)
+
 
 
 
