@@ -3,6 +3,17 @@
 
 https://youtu.be/0z1uZ4wGdGA
 
+The Annotated Custom Images(out of the 500 images) predicted by Yolo is placed at:
+
+https://github.com/sudhakarmlal/S13/tree/master/YoloV3/out_out
+
+
+The Annotated Custom Images(out of the 2K odd images out of the Video taken from Ytube) predicted by Yolo is placed at:
+
+https://github.com/sudhakarmlal/S13/tree/master/YoloV3/out_pub1
+
+
+
 # YoloV3
 ________
 YoloV3 Simplified for training on Colab with custom dataset. 
