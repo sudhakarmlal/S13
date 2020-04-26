@@ -1,0 +1,4 @@
+classes=1
+train=data/customdata/customtrain.txt
+valid=data/customdata/customtrain.txt
+names=data/customdata/custom.names
