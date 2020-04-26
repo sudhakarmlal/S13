@@ -26,12 +26,12 @@ For custom dataset:
 data
   --customdata
     --images/
-      --img001.jpg
-      --img002.jpg
+      --1.jpg
+      --2.jpg
       --...
     --labels/
-      --img001.txt
-      --img002.txt
+      --1.txt
+      --2.txt
       --...
     custom.data #data file
     custom.names #your class names
@@ -46,9 +46,9 @@ data
 ```
 6. As you it a poor idea to keep test and train data same, but the point of this repo is to get you up and running with YoloV3 asap. You'll probably do a mistake in writing to custom.txt file. This is how our file looks like (please note the .s and /s):
 ```
-./data/customdata/images/img001.jpg
-./data/customdata/images/img002.jpg
-./data/customdata/images/img003.jpg
+./data/customdata/images/1.jpg
+./data/customdata/images/2.jpg
+./data/customdata/images/3.jpg
 ...
 ```
 7. You need to add custom.names file as you can see above. For our example, we downloaded images of Walle. Our custom.names file look like this:
